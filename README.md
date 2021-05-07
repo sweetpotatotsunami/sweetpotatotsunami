@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sweetpotatotsunami
 - 👀 I’m interested in scientific publishing
-- 🌱 I’m currently learning pythond
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on bibliometris projects
 - 📫 How to reach me ... not sure yet.
 
